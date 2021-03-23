@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on _Power Quality_ related problems.
+- 🔭 I’m currently working on _AI_ and _Power Quality_ related problems.
 - 🌱 I’m currently learning _Quantum Computing_ as it is a relevant topic for me.
 - 👯 I’m looking to collaborate on any project that needs my help.
 - 🤔 I’m looking for help with landing my ideas on real projects.
