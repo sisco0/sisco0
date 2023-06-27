@@ -7,5 +7,6 @@
 - 💬 Ask me about anything, I would be happy to assist you.
 - 📫 How to reach me: You can contact me at my mail 
 - ⚡ Fun fact: I used to skate at my childhood, but never completed a kickflip!
+- 👓 Reading: I like reading research papers about Non-Newtonian liquids!
 
 ![sisco0's github stats](https://github-readme-stats.vercel.app/api?username=sisco0&show_icons=true)
